@@ -1,6 +1,7 @@
 # cse3150_week_3_hw
 
 *How I used...:*
+
 **Pointers**: every student's name is stored using new char[] on the heap and freed from memory at the end with delete[]  
 
 **Const**: used const double& for gpa to prevent modification and const char in printstudent function for the name  
